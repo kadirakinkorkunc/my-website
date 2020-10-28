@@ -15,6 +15,7 @@ html, body {
 .identity p{
     text-align: center;
     font-size: 45px;
+
     font-family: monospace;
 }
 .about-me .content {
@@ -68,6 +69,7 @@ hr{
         height: auto;
     }
 }
+
 
 @media screen and (max-width: 530px) {
     .mobile{
