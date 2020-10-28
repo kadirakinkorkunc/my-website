@@ -4,13 +4,17 @@ html, body {
     background-color: black;
 }
 
+.main{
+    background-color: white;
+}
+
 .identity{
     margin-top: 6rem;
 }
 
 .identity p{
     text-align: center;
-    font-size: 50px;
+    font-size: 45px;
     font-family: monospace;
 }
 .about-me .content {
@@ -51,6 +55,31 @@ hr{
     }
     .identity{
         margin-top: 7rem;
+    }
+    .experiences{
+        align-items: center;
+        text-align: center;
+        margin: 0 0 0 0;
+    }
+    .social {
+        position: relative;
+        top: auto;
+        left: auto;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .mobile{
+        display: inline !important;
+        width: 100vh;
+    }
+    .about-me{
+        text-align: center;
+        align-items: center;
+    }
+    .identity{
+        margin: 0 auto;
     }
     .experiences{
         align-items: center;
