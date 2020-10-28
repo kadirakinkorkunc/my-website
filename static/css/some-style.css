@@ -4,6 +4,10 @@ html, body {
     background-color: black;
 }
 
+.main{
+    background-color: white;
+}
+
 .identity{
     margin-top: 6rem;
 }
