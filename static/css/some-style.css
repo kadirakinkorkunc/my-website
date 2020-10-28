@@ -69,6 +69,32 @@ hr{
     }
 }
 
+
+@media screen and (max-width: 530px) {
+    .mobile{
+        display: inline !important;
+        width: 100vh;
+    }
+    .about-me{
+        text-align: center;
+        align-items: center;
+    }
+    .identity{
+        margin: 0 auto;
+    }
+    .experiences{
+        align-items: center;
+        text-align: center;
+        margin: 0 0 0 0;
+    }
+    .social {
+        position: relative;
+        top: auto;
+        left: auto;
+        height: auto;
+    }
+}
+
 .fa {
     background: #111;
     color: white;
