@@ -1,19 +1,10 @@
-<!DOCTYPE html>
+---
+title: "main"
+date: 2020-10-28T17:48:22+03:00
+draft: true
+---
 
-<html>
-
-<head>
-    <title>kadirakinkorkunc.com</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./index.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-</head>
-
-<body class="container-fluid">
+<div class="container-fluid main">
     <div class="row d-flex align-items-center">
         <div class="row col-sm-3 nav">
             <div class="mx-auto">
@@ -46,7 +37,7 @@
                     <div class="flip-card">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
-                                <img class="company-logo" src="../assets/kartaca.png" alt="Avatar">
+                                <img class="company-logo" src="../assets/kartaca.png" alt="kartaca-logo">
                             </div>
                             <div class="flip-card-back">
                                 <h4>2020 September~</h1>
@@ -59,7 +50,7 @@
                     <div class="flip-card">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
-                                <img class="company-logo" src="../assets/tubitak.png" alt="Avatar">
+                                <img class="company-logo" src="../assets/tubitak.png" alt="tubitak-bilgem-yte-logo">
                             </div>
                             <div class="flip-card-back">
                                 <h4>2019 Aug</h1>
@@ -72,7 +63,7 @@
                     <div class="flip-card">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
-                                <img class="company-logo" src="../assets/havelsan.png" alt="Avatar">
+                                <img class="company-logo" src="../assets/havelsan.png" alt="havelsan-logo">
                             </div>
                             <div class="flip-card-back">
                                 <h4>2019 July</h1>
@@ -85,7 +76,6 @@
                 </div>
             </div>
         </div>
-        
         <div class="row col-sm-2 d-flex align-items-center">
             <div class="social container text-center">
                 <hr>
@@ -100,6 +90,4 @@
             </div>
         </div>
     </div>
-</body>
-
-</html>
+</div>
