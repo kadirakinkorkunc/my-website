@@ -21,5 +21,10 @@
     <main>
       {{ block "main" . }}{{ end }}
     </main>
+    <script>
+      var birthYear = 1998;
+      var age  = new Date().getFullYear() - birthYear;
+      $('#age').text(age);
+    </script>
   </body>
 </html>
