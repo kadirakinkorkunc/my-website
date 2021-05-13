@@ -23,7 +23,7 @@ draft: true
             <div class="about-me">
                 <h1 class="title">about me.</h1>
                 <div class="content">
-                    <p>22 years old for now, loves coding, working as a junior software developer.</p>
+                    <p><span id="age"> </span> years old for now, loves coding, working as a junior software developer.</p>
                     <br/>
                     <p>Sci-Fi addict, plays video games frequently, mostly RTS.</p>
                     <br/>
