@@ -86,6 +86,8 @@ draft: true
                 <a target="_blank" href="mailto://kadirakinkorkunc@gmail.com" class="fa fa-paper-plane"></a>
                 <br/>
                 <a target="_blank" href="https://medium.com/@kadirakinkorkunc" class="fa fa-medium"></a>
+                <br/>
+                <a target="_blank" href="https://www.credential.net/83e1b36b-3ded-4c21-a573-36b7dcb93658?key=" class="fa fa-cloud"></a>
                 <hr>
             </div>
         </div>
