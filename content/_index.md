@@ -23,7 +23,7 @@ draft: true
             <div class="about-me">
                 <h1 class="title">about me.</h1>
                 <div class="content">
-                    <p><span id="age"> </span> years old for now, loves coding, working as a junior software developer.</p>
+                    <p><span id="age"> </span> years old for now, loves coding, working as a software developer.</p>
                     <br/>
                     <p>Sci-Fi addict, plays video games frequently, mostly RTS.</p>
                     <br/>
@@ -41,7 +41,7 @@ draft: true
                             </div>
                             <div class="flip-card-back">
                                 <h4>2020 September~</h1>
-                                    <p>Jr. Software Developer</p>
+                                    <p>Software Developer</p>
                                     <p>Developing features for a loyalty program.</p>
                                     <p>Java Spring, PHP, Cassandra, Hazelcast, MySQL, Redis, Docker</p>
                             </div>
